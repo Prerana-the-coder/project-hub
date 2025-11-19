@@ -1,2 +1,4 @@
 # project-hub
-This is my first git project
+This is my first git Repository
+<br>
+Auther- Prerana Sharma
