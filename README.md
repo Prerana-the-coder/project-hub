@@ -3,4 +3,4 @@ This is my first Git Repository
 <br>
 Auther- Prerana Sharma
 <br>
-AI Enthusiast
+AI and ML Enthusiast
