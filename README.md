@@ -3,6 +3,6 @@ This is my first Git Repository
 <br>
 Auther- Prerana Sharma
 <br>
-AI and ML Enthusiast
+AI/ML Enthusiast
 <br>
 Passionate about data
