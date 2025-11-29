@@ -5,4 +5,4 @@ Auther- Prerana Sharma
 <br>
 AI/ML Enthusiast
 <br>
-Passionate about data
+Passionate about Data
